@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Orkhan Shirinov
+- 👋 Hi, I’m Orkhan
 - I'm working as a software developer in Blackswan Technologies - BST Labs
 - I’m currently learning AWS Cloud Technologies, Python Internals and Golang
 - I'm interested in Data Science, ML, AI and Blockchain.
