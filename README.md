@@ -1,7 +1,14 @@
 - 👋 Hi, I’m Orkhan
-- I'm working as a software developer in Blackswan Technologies - BST Labs
-- I’m currently learning AWS Cloud Technologies, Python Internals and Golang
-- I'm interested in Data Science, ML, AI and Blockchain.
+- I'm working as a software developer at Blackswan Technologies - BST Labs
+- My current interests are:
+    - AWS Cloud Technologies, 
+    - Test Driven Development,
+    - Blockchain technologies,
+    - Python Internals,
+    - Data Science, 
+    - ML/AI,
+    - Golang,
+    - Rust
 - 📫 How to reach me :
     - email: orkhan.shirinow@gmail.com 
     - telegram: @orkhanshirin
