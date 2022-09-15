@@ -11,7 +11,7 @@
     - Rust
 - 📫 How to reach me :
     - email: orkhan.shirinow@gmail.com 
-    - telegram: @orkhanshirin
+    - telegram: [@orkhanshirin](tg://resolve?domain=orkhanshirin)
 
 <!---
 orkhanshirin/orkhanshirin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
