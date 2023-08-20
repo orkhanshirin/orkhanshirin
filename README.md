@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Orkhan
-- I'm working as a software developer at Blackswan Technologies - BST Labs
+- I'm a Software Engineer
 - My current interests are:
     - AWS Cloud Technologies, 
     - Test Driven Development,
