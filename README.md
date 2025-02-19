@@ -10,7 +10,7 @@
     - Golang,
     - Rust
  
-- Started grindding DSA:
+- Started grinding DSA:
   - [interview_track](https://github.com/orkhanshirin/interview_track)
  
 
