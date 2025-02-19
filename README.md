@@ -9,6 +9,11 @@
     - ML/AI,
     - Golang,
     - Rust
+ 
+- Started grindding DSA:
+  - [interview_track](https://github.com/orkhanshirin/interview_track)
+ 
+
 - 📫 How to reach me :
     - email: orkhan.shirinow@gmail.com 
     - telegram: [@orkhanshirin](tg://resolve?domain=orkhanshirin)
