@@ -5,10 +5,10 @@
     - Test Driven Development,
     - Blockchain technologies,
     - Python Internals,
-    - Data Science, 
-    - ML/AI,
+    - ML/AI Infrastructure,
     - Golang,
-    - Rust
+    - Rust,
+    - JS/TS
  
 - Grinding DSA here:
   - [interview_track](https://github.com/orkhanshirin/interview_track)
